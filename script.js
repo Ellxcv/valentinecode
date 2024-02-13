@@ -46,8 +46,8 @@ function generateMessage(noCount) {
     "Yakinnn?",
     "Jangann please",
     "Dilarang tekan ini :(",
-    "Ohhh gitu cukup tahu ja",
-    "Aishhh menguap ja aku...",
+    "Ohhh gitu cukup tahu ja ;(",
+    "Aishhh menguap ja aku... :(",
   ];
 
   const messageIndex = Math.min(noCount, messages.length - 1);
